@@ -191,6 +191,4 @@ The series features moderate violence (robot combat, explosions, and character d
 - Universal Century (UC) Main Series: Shows like Mobile Suit Gundam 00, Iron-Blooded Orphans, and Thunderbolt are rated for teens (13+) or adults due to intense war violence, sexual content, and complex political intrigue.
 - Themes: Traditional Gundam series deal with heavy topics such as child soldiers, chemical weapons, and authoritarianism, which may be confusing or distressing for a 9-year-old.
 - Attention Span: Many series spend significant time on politics and logistics rather than robot fights, which may bore younger viewers.
-
-Books
-The provided search context does not contain specific recommendations for Gundam books for this age group, but The Origin manga is sometimes mentioned as a good entry point for understanding the saga, though it is more mature. For books, stick to official children's guides or Gunpla building manuals if available.
+- Books: The Origin manga is sometimes mentioned as a good entry point for understanding the saga, though it is more mature. For books, stick to official children's guides or Gunpla building manuals if available.
