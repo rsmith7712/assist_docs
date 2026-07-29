@@ -78,6 +78,8 @@ The story emphasizes teamwork, friendship, and overcoming loneliness.  Unlike tr
 
 ### Sequels and Spin-offs
 
+- None listed
+
 ---
 
 ## SD Gundam Force
@@ -115,6 +117,8 @@ Unlike traditional Gundam series, SD Gundam Force avoids graphic violence, polit
 
 ### Sequels and Spin-offs
 
+- None listed
+
 ---
 
 ## Gundam AGE
@@ -149,6 +153,8 @@ The series is unique because it follows the Asuno family across three generation
 
 ### Sequels and Spin-offs
 
+- None listed
+
 ---
 
 ## Gundam Wing
@@ -176,6 +182,8 @@ The series features moderate violence (robot combat, explosions, and character d
 `If your child is mature and has handled war-themed cartoons like Transformers or Teenage Mutant Ninja Turtles without issue, they may be able to handle the TV-dubbed/censored version.  However, the Build series (Gundam Build Fighters) remains the safest and most age-appropriate entry point for a 9-year-old, as it focuses on the sport of building and controlling robots rather than war.`
 
 ### Sequels and Spin-offs
+
+- Too many to list...
 
 ---
 
