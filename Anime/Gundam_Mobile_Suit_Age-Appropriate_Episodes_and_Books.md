@@ -27,14 +27,14 @@ Highly recommended as a starting point; it focuses on kids controlling miniature
 
 ### Why It Is Age-Appropriate
 
-- Sport-Focused Narrative: The story centers on Gunpla Battles, a competitive sport where kids build and pilot their models in Virtual Reality (VR) arenas using "Plavsky particles." It lacks the graphic war violence, child soldiers, and sexual content found in traditional Gundam series. 
-- Themes: The show focuses on friendship, craftsmanship, fair play, and overcoming personal insecurities. 
+- Sport-Focused Narrative: The story centers on Gunpla Battles, a competitive sport where kids build and pilot their models in Virtual Reality (VR) arenas using "Plavsky particles." It lacks the graphic war violence, child soldiers, and sexual content found in traditional Gundam series.
+- Themes: The show focuses on friendship, craftsmanship, fair play, and overcoming personal insecurities.
 - Target Audience: While some retailers list it as "14+," it is widely considered by the fan community to be "kid-friendly" and similar in tone to shows like My Hero Academia or Yu-Gi-Oh!.
 
 ### Main Story and Characters
 
-- Sei Iori: A 13-year-old middle school student and the son of a Gunpla hobby shop owner. He is a brilliant builder but struggles with the confidence to pilot his models in battle. 
-- Reiji: A mysterious, red-haired boy with incredible piloting instincts. He and Sei form a team: Sei builds the Gundams, and Reiji pilots them. 
+- Sei Iori: A 13-year-old middle school student and the son of a Gunpla hobby shop owner. He is a brilliant builder but struggles with the confidence to pilot his models in battle.
+- Reiji: A mysterious, red-haired boy with incredible piloting instincts. He and Sei form a team: Sei builds the Gundams, and Reiji pilots them.
 - Plot: Together, they compete in local tournaments, qualify for the national championships, and eventually travel to the Gunpla Builders World Tournament in Tokyo to face international rivals.
 
 ### Visual Style
@@ -45,7 +45,7 @@ The series features a bright, modern aesthetic. The "battles" are depicted as ex
 
 If your child enjoys the first series, you can continue with:
 
-- Gundam Build Fighters Try: Takes place 7 years later with a new protagonist and a focus on team battles. 
+- Gundam Build Fighters Try: Takes place 7 years later with a new protagonist and a focus on team battles.
 - Gundam Build Divers Re:Rise: A more adventurous sequel where the characters enter a VR world that turns out to be a real alien planet.
 
 ---
@@ -63,11 +63,11 @@ A family-friendly sequel focused on adventure and saving the world, suitable for
 ### Why It Is Age-Appropriate
 
 It is generally considered more accessible than the original Build Divers because the protagonist, Hiroto, is slightly older and the team dynamic is more mature, but it remains safe for children who enjoy action-adventure and video game themes.
-```
-While often categorized as TV-PG or "shounen" (targeting 10–18-year-olds), some physical media releases carry a 14+ rating due to the inclusion of "obstructive content" (mild violence).
 
-If your child found the original Gundam Build Divers too young or simple, Re:Rise is a natural next step. If they found it too old or complex, the original is likely better.
-```
+`While often categorized as TV-PG or "shounen" (targeting 10–18-year-olds), some physical media releases carry a 14+ rating due to the inclusion of "obstructive content" (mild violence).`
+
+`If your child found the original Gundam Build Divers too young or simple, Re:Rise is a natural next step. If they found it too old or complex, the original is likely better.`
+
 ### Main Story and Characters
 
 The series follows the characters as they explore a mysterious new zone called the "Dimension," battling rogue AIs and "Ancients" while discovering the true nature of their virtual world.
@@ -96,8 +96,8 @@ Specifically designed for children with a simpler narrative and comedic tone.
 
 Unlike traditional Gundam series, SD Gundam Force avoids graphic violence, political intrigue, and trauma.  Instead, it focuses on:
 
-- Themes: Friendship, cooperation, and overcoming differences. 
-- Tone: The villains (like the bumbling Zapper Zaku) are often comedic rather than terrifying. 
+- Themes: Friendship, cooperation, and overcoming differences.
+- Tone: The villains (like the bumbling Zapper Zaku) are often comedic rather than terrifying.
 - Action: Battles are stylized and "power-up" focused, appealing to younger viewers without being intense.
 
 ### Main Story and Characters
@@ -109,8 +109,8 @@ Unlike traditional Gundam series, SD Gundam Force avoids graphic violence, polit
 
 ### Visual Style
 
-- Designed for young children (ages 6–10) with a lighthearted, comedic, and "team-based" tone similar to shows like Transformers: Rescue Bots. 
-- The story takes place in Neotopia, a futuristic utopia where humans and robots live in peace. 
+- Designed for young children (ages 6–10) with a lighthearted, comedic, and "team-based" tone similar to shows like Transformers: Rescue Bots.
+- The story takes place in Neotopia, a futuristic utopia where humans and robots live in peace.
 - The city is attacked by the Dark Axis, an evil interdimensional force. The heroes are the Super Dimensional Guard (SDG), a secret team of robot defenders.
 
 ### Sequels and Spin-offs
@@ -121,7 +121,7 @@ Unlike traditional Gundam series, SD Gundam Force avoids graphic violence, polit
 
 ### Description
 
-Gundam AGE (Mobile Suit Gundam AGE) is a 2011–2012 anime series designed as a more accessible entry point for younger audiences into the Gundam franchise.  It is widely considered appropriate for ages 9–11+, though it still deals with mature war themes.
+Gundam AGE (Mobile Suit Gundam AGE) is a 2011–2012 anime series designed as a more accessible entry point for younger audiences into the Gundam franchise. It is widely considered appropriate for ages 9–11+, though it still deals with mature war themes.
 
 ### Recommendation
 
@@ -129,22 +129,22 @@ Features a young protagonist and is considered appropriate for pre-teens, though
 
 ### Why It Is Age-Appropriate
 
-- The main character starts as a child, making it easier for younger viewers to relate. 
+- The main character starts as a child, making it easier for younger viewers to relate.
 - Compared to other Gundam series, the animation is brighter, and the early episodes focus heavily on Flit’s growth and his desire to be a "savior."
 - The series was heavily tied to Gunpla (Gundam model kits) and video games, emphasizing the "cool factor" of the robots and their transformations.
 
 ### Main Story and Characters
 
-The series is unique because it follows the Asuno family across three generations (spanning 100 years) fighting a war against a mysterious alien-like force called the UE (Unknown Enemy). 
+The series is unique because it follows the Asuno family across three generations (spanning 100 years) fighting a war against a mysterious alien-like force called the UE (Unknown Enemy).
 
-- The story begins with Flit Asuno, a young boy whose mother gives him the "AGE Device" (blueprints for a mobile suit) before she dies in a UE attack. 
-- Flit builds and pilots the AGE-1 Gundam, a transformable robot capable of changing its weapon configuration (Normal, Attack, and Defense types) to suit different battle conditions. 
+- The story begins with Flit Asuno, a young boy whose mother gives him the "AGE Device" (blueprints for a mobile suit) before she dies in a UE attack.
+- Flit builds and pilots the AGE-1 Gundam, a transformable robot capable of changing its weapon configuration (Normal, Attack, and Defense types) to suit different battle conditions.
 - The narrative shifts from Flit (Part 1) to his son Asemu (Part 2) and his grandson Kio (Part 3), each piloting evolved versions of the Gundam (AGE-2 and AGE-3).
 
 ### Visual Style
 
 - Despite being kid-friendly, it is still a Gundam show. It depicts the destruction of space colonies, death of parents, and child soldiers.
-- The first generation (Flit’s arc) becomes quite dark, involving the death of a friend and the revelation that the "aliens" are actually humans (Vagans), leading to a cycle of revenge. 
+- The first generation (Flit’s arc) becomes quite dark, involving the death of a friend and the revelation that the "aliens" are actually humans (Vagans), leading to a cycle of revenge.
 - It is best watched with parental guidance to discuss the heavy themes of war and loss.
 
 ### Sequels and Spin-offs
